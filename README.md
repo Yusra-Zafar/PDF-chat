@@ -3,7 +3,7 @@
 The "Chat with PDFs using Gemini" project is a streamlit application that allows users to ask questions based on multiple PDF documents uploaded by the user. 
 It utilizes Google Generative AI (Gemini) for document understanding and question answering.
 
-![pdf_chat](https://github.com/Yusra-Zafar/PDF-chat/assets/141744510/e1a20956-a8ed-4643-a1b1-a3267490e98e)
+![pdf_chat](https://github.com/Yusra-Zafar/PDF-chat/assets/141744510/034cac51-402c-4aa8-b291-f3c4dd874c9b)
 
 
 ## Features
@@ -34,7 +34,7 @@ It utilizes Google Generative AI (Gemini) for document understanding and questio
 ## How to Run
 
 1. Clone the repository.
-2. Install required dependencies using `pip install -r requirements.txt`.
+2. Install required dependencies using **`pip install -r requirements.txt`**.
 3. Ensure you have the required environment variables set up (e.g., GOOGLE_API_KEY for Gemini).
 4. Run the application using `streamlit run chat_with_pdfs.py`.
 5. Upload PDF documents and start asking questions related to the documents.
